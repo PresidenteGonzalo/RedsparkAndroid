@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Redspark</string>
+    <string name="action_settings">Podešavanja</string>
+    <string name="home">Početna</string>
+    <string name="current_category">Pokazivanje vijesti o <b>%s</b></string>
+    <string name="loading_news">Učitavanje vijesti</string>
+    <string name="navigation_drawer_close">Otvori navigator</string>
+    <string name="navigation_drawer_open">Zatvori navigator</string>
+    <string name="subscribe">Pretplati se</string>
+    <string name="subscribe_dialog">Obavijesti me o novoj priči o %s.</string>
+</resources>

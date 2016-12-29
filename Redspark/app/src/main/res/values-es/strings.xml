@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Redspark</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="loading_news">Cargando noticias</string>
+    <string name="current_category">Mostrando noticias sobre <b>%s</b></string>
+    <string name="home">Todas las noticias</string>
+    <string name="navigation_drawer_close">Cerrar el cajón de navegación</string>
+    <string name="navigation_drawer_open">Abrir el cajón de navegación</string>
+    <string name="subscribe">Suscribir</string>
+    <string name="subscribe_dialog">Notifico yo cuando ahi esta un conseja nuevo acera de %s.</string>
+</resources>

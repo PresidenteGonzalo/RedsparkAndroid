@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Redspark</string>
+    <string name="subscribe_dialog">Varsle meg når det er en ny artikkel om %s.</string>
+    <string name="subscribe">Abonner</string>
+    <string name="navigation_drawer_open">Åpne navigasjonsmeny</string>
+    <string name="navigation_drawer_close">Lukk navigasjonsmeny</string>
+    <string name="loading_news">Laster nyheter</string>
+    <string name="home">Hjem</string>
+    <string name="current_category">Viser nyheter om <b>%s</b></string>
+    <string name="action_settings">Instillinger</string>
+</resources>

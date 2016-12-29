@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Redspark</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="home">Home</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="current_category">Showing news about <b>%s</b></string>
+    <string name="loading_news">Loading news</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="subscribe_dialog">Notify me whenever there\'s a new story about %s.</string>
+    <string name="increase_font_size">Larger Text</string>
+    <string name="decrease_font_size">Smaller Text</string>
+    <string name="close">Close</string>
+</resources>
